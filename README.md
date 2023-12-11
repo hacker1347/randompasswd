@@ -2,5 +2,8 @@
 (brute force )
 # randompasswd
 # author : hackerkid (my nickname)
-# enjoy
+
 # this tool is generator of passwd
+# create whit python
+# enjoy (:
+# ñð §¥§†êm ï§ §å£ê
