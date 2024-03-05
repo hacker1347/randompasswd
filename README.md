@@ -1,5 +1,5 @@
 # randompasswd
-(brute force )
+
 # randompasswd
 # author : hackerkid (my nickname)
 
